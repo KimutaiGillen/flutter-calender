@@ -110,9 +110,9 @@ class _LocationDetailState extends State<LocationDetail> {
   }
 
   Widget _renderBookButton() {
-    return FlatButton(
-      color: Styles.accentColor,
-      textColor: Styles.textColorBright,
+    return TextButton(
+      // color: Styles.accentColor,
+      // textColor: Styles.textColorBright,
       onPressed: _handleBookPress,
       child: Text('Book'.toUpperCase(), style: Styles.textCTAButton),
     );

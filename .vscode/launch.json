@@ -1,0 +1,508 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "lesson01",
+            "cwd": "module01-thebasics\\lesson01",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson01 (profile mode)",
+            "cwd": "module01-thebasics\\lesson01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson01 (release mode)",
+            "cwd": "module01-thebasics\\lesson01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson02",
+            "cwd": "module01-thebasics\\lesson02",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson02 (profile mode)",
+            "cwd": "module01-thebasics\\lesson02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson02 (release mode)",
+            "cwd": "module01-thebasics\\lesson02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson03",
+            "cwd": "module01-thebasics\\lesson03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson03 (profile mode)",
+            "cwd": "module01-thebasics\\lesson03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson03 (release mode)",
+            "cwd": "module01-thebasics\\lesson03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson04",
+            "cwd": "module01-thebasics\\lesson04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson04 (profile mode)",
+            "cwd": "module01-thebasics\\lesson04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson04 (release mode)",
+            "cwd": "module01-thebasics\\lesson04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson05",
+            "cwd": "module01-thebasics\\lesson05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson05 (profile mode)",
+            "cwd": "module01-thebasics\\lesson05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson05 (release mode)",
+            "cwd": "module01-thebasics\\lesson05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson06",
+            "cwd": "module01-thebasics\\lesson06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson06 (profile mode)",
+            "cwd": "module01-thebasics\\lesson06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson06 (release mode)",
+            "cwd": "module01-thebasics\\lesson06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson07",
+            "cwd": "module01-thebasics\\lesson07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson07 (profile mode)",
+            "cwd": "module01-thebasics\\lesson07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson07 (release mode)",
+            "cwd": "module01-thebasics\\lesson07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson08",
+            "cwd": "module01-thebasics\\lesson08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson08 (profile mode)",
+            "cwd": "module01-thebasics\\lesson08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson08 (release mode)",
+            "cwd": "module01-thebasics\\lesson08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson09",
+            "cwd": "module02-tourismandco\\lesson09",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson09 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson09 (release mode)",
+            "cwd": "module02-tourismandco\\lesson09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson10",
+            "cwd": "module02-tourismandco\\lesson10",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson10 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson10 (release mode)",
+            "cwd": "module02-tourismandco\\lesson10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson11",
+            "cwd": "module02-tourismandco\\lesson11",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson11 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson11",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson11 (release mode)",
+            "cwd": "module02-tourismandco\\lesson11",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson12",
+            "cwd": "module02-tourismandco\\lesson12",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson12 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson12",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson12 (release mode)",
+            "cwd": "module02-tourismandco\\lesson12",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson13",
+            "cwd": "module02-tourismandco\\lesson13",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson13 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson13",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson13 (release mode)",
+            "cwd": "module02-tourismandco\\lesson13",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson14",
+            "cwd": "module02-tourismandco\\lesson14",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson14 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson14",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson14 (release mode)",
+            "cwd": "module02-tourismandco\\lesson14",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson15",
+            "cwd": "module02-tourismandco\\lesson15",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson15 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson15",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson15 (release mode)",
+            "cwd": "module02-tourismandco\\lesson15",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson16",
+            "cwd": "module02-tourismandco\\lesson16",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson16 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson16",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson16 (release mode)",
+            "cwd": "module02-tourismandco\\lesson16",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson17",
+            "cwd": "module02-tourismandco\\lesson17",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson17 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson17",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson17 (release mode)",
+            "cwd": "module02-tourismandco\\lesson17",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson18",
+            "cwd": "module02-tourismandco\\lesson18",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson18 (profile mode)",
+            "cwd": "module02-tourismandco\\lesson18",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson18 (release mode)",
+            "cwd": "module02-tourismandco\\lesson18",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson01",
+            "cwd": "module03-steadycalendar\\lesson01",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson01 (profile mode)",
+            "cwd": "module03-steadycalendar\\lesson01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson01 (release mode)",
+            "cwd": "module03-steadycalendar\\lesson01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson02",
+            "cwd": "module03-steadycalendar\\lesson02",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson02 (profile mode)",
+            "cwd": "module03-steadycalendar\\lesson02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson02 (release mode)",
+            "cwd": "module03-steadycalendar\\lesson02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson03",
+            "cwd": "module03-steadycalendar\\lesson03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson03 (profile mode)",
+            "cwd": "module03-steadycalendar\\lesson03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson03 (release mode)",
+            "cwd": "module03-steadycalendar\\lesson03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lesson04",
+            "cwd": "module03-steadycalendar\\lesson04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lesson04 (profile mode)",
+            "cwd": "module03-steadycalendar\\lesson04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lesson04 (release mode)",
+            "cwd": "module03-steadycalendar\\lesson04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "basic_integration_testing",
+            "cwd": "youtube\\basic_integration_testing",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "basic_integration_testing (profile mode)",
+            "cwd": "youtube\\basic_integration_testing",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "basic_integration_testing (release mode)",
+            "cwd": "youtube\\basic_integration_testing",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "easy_dep_injection",
+            "cwd": "youtube\\easy_dep_injection",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "easy_dep_injection (profile mode)",
+            "cwd": "youtube\\easy_dep_injection",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "easy_dep_injection (release mode)",
+            "cwd": "youtube\\easy_dep_injection",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "super_search",
+            "cwd": "youtube\\super_search",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "super_search (profile mode)",
+            "cwd": "youtube\\super_search",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "super_search (release mode)",
+            "cwd": "youtube\\super_search",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

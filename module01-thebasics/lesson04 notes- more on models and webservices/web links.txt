@@ -1,0 +1,8 @@
+1 what are web services 
+
+https://www.cleo.com/blog/knowledge-base-web-services#:~:text=Most%20web%20services%20provide%20an,collects%20data%20in%20JSON%20format.
+
+2 what is SOA 
+soap vs rest
+
+https://www.cleo.com/blog/knowledge-base-soa-service-oriented-architecture 
